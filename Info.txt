@@ -1,0 +1,13 @@
+Building a snake game:
+1. Create snake body
+2. Move the snake
+3. Control the snake
+4. Detect food
+5. Scoreboard
+6. Collision with wall and tail 
+
+main.py controls a game 
+snake.py create snake, snake movement and snake growth
+food.py create food on random locations 
+scoreboard.py keep track of your score adn if game is over
+collision.py keeps you in walls and detecting did you bite your tail
